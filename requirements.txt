@@ -1,0 +1,11 @@
+matplotlib==3.7.0
+matplotlib==3.7.1
+numpy==1.23.5
+opencv_python==4.7.0.72
+scikit_learn==1.2.1
+scikit_learn==1.2.2
+torch==1.12.1
+torch==2.0.0
+torch==1.10.0+cu102
+torchvision==0.15.0
+torchvision==0.11.0+cu102
